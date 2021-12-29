@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "模型", "模型.csproj", "{5A48B8E4-7DB8-0419-98B4-230D2D606B9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "模型.Editor", "模型.Editor.csproj", "{C48CB92E-C804-E7D8-DD7D-66B2EE34F559}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A48B8E4-7DB8-0419-98B4-230D2D606B9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A48B8E4-7DB8-0419-98B4-230D2D606B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A48B8E4-7DB8-0419-98B4-230D2D606B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A48B8E4-7DB8-0419-98B4-230D2D606B9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C48CB92E-C804-E7D8-DD7D-66B2EE34F559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C48CB92E-C804-E7D8-DD7D-66B2EE34F559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C48CB92E-C804-E7D8-DD7D-66B2EE34F559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C48CB92E-C804-E7D8-DD7D-66B2EE34F559}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
